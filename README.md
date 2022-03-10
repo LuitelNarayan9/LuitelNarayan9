@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LuitelNarayan9
-- 👀 I’m interested in Learning New Technical Skills
-- 🌱 I’m currently doing ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me << https://www.facebook.com/nluitel99/ >>
+- I’m curious to learn something new everyday.
+- I’m currently doing Masters from LPU in Computer Application.
+- 📫 Reach me @ https://www.facebook.com/nluitel99/ or https://www.linkedin.com/in/nluitel99/
 
 <!---
 LuitelNarayan9/LuitelNarayan9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
